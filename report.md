@@ -1,8 +1,8 @@
 UECM3033 Assignment #1 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
-- Tutorial Group: T2/T3
+- Prepared by: ** Wong Sin Yi**
+- Tutorial Group: T2
 
 --------------------------------------------------------
 
