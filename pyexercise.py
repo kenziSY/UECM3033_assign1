@@ -1,8 +1,8 @@
 import sympy as sy
 import numpy as np
 
-def fun_1( your_id ):
-    ans = hex(your_id)
+def fun_1( 1308097 ):
+    ans = hex(1308097)
     return ans
 
 def my_integral():
