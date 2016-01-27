@@ -50,6 +50,9 @@ In this section, please report:
 		   x_1 +x_2 +x_3 +x_4 +x_5 +x_6 +x_7 +x_8 +x_9 +2x_10 &= 72, \\
 		   x_1 +x_2 +x_3 +x_4 +x_5 +x_6 +x_7 +x_8 +x_9 +x_10 &= 66, \\ \end{align*}
 
+    Solution: \begin{align*}x_1=50, x_2=-2, x_3=-6, x_4=12, x_5=-9,\
+			    x_6=-5, x_7=-1, x_8=13, x_9=8, x_10=6\end{align*}
+
 Here are the examples of how to add equations in markdown:
 
 $$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
