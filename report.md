@@ -10,7 +10,7 @@ UECM3033 Assignment #1 Report
 
 The reports, codes and supporting documents are uploaded to Github at: 
 
-[https://github.com/your_github_id/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
+[https://github.com/kenziSY/UECM3033_assign1](https://github.com/kenziSY/UECM3033_assign1)
 
 
 ---------------------------------------------------------
