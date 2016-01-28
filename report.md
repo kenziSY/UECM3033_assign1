@@ -29,8 +29,16 @@ Put here the screen shot of file (python.png)
 In this section, please report:
 
 1. The hexadecimal value of your student ID.
+   Hexadecimal representation of 1308097 is 0x13f5c1
+
 2. Write down the definite integrals that you have chosen.
+   $$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
+
 3. Write down your system of 10 linear equations.
+   \begin{align*}
+3 x_0 +x_1 &= 9,\\
+x_0 + 2 x_1 &= 8.
+\end{align*}
 
 Here are the examples of how to add equations in markdown:
 
