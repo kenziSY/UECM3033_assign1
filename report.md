@@ -29,12 +29,15 @@ Put here the screen shot of file (python.png)
 In this section, please report:
 
 1. The hexadecimal value of your student ID.
+   
    Hexadecimal representation of 1308097 is 0x13f5c1
 
 2. Write down the definite integrals that you have chosen.
+   
    $$\int_0^{1} 2^{\sqrt{x}} dx = -\frac{2}{\log{2}^2}+\frac{4}{\log{2}}.$$
 
 3. Write down your system of 10 linear equations.
+   
    \begin{align*}
    -x_0 +9x_1+8x_2+8x_3+9x_5+1x_6+3x_7+2x_8-6x_9 &= 66,\\
    -x_1+2x_2+4x_3+2x_4+7x_5+7x_6+5x_7+6x_8+x_9 &= 42,\\
