@@ -7,7 +7,7 @@ def fun_1( your_id ):
 
 def my_integral():
     x = sy.Symbol('x')
-    ans = ans = sy.integrate( sy.ln(sy.sqrt(x/(x-2))), (x,0,1))
+    ans = ans = sy.integrate( 2**sy.sqrt(x), (x,0,1))
     return ans
 
 def my_solution():
